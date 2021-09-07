@@ -1,0 +1,1 @@
+# GameCenter2CorePodspec
